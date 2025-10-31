@@ -1,5 +1,5 @@
 # Hello! I'm Nick 👋.
-- Junior Java Software Engineer.
+- Junior Full-stack software engineer.
 - Currently working on: a library management server-client application.
 - Currently learning: The Spring framework, ReactJS.
 
