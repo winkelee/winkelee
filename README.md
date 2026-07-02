@@ -1,8 +1,22 @@
-# Hello! I'm Nick 👋.
-- Junior Full-stack software engineer.
-- Currently working on: part-time empirical NLP research.
-- Most recent project: Full-Stack library web application.
+# Hi! Welcome to my README.
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </br>
+Personal information:
+1. [Connect on LinkedIn](www.linkedin.com/in/nikolay-staroverov-143887413)
+2. Mail me at [nikolay_staroverov@proton.me](mailto:nikolay_staroverov@proton.me)
+
+
+## Scaling Down: Multi-Hop Information Retrieval in Resource-Constrained Environments
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20012086.svg)](https://doi.org/10.5281/zenodo.20012086)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/winkelee/Scaling-Down-Multi-Hop-Retrieval)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey?logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+*Quick Links:*
+1. [Read the paper](https://doi.org/10.5281/zenodo.20012086)
+2. [Code / Implementation](https://github.com/winkelee/Scaling-Down-Multi-Hop-Retrieval)
+
+*Key Contributions:*
+1. **Small RNNs** can internalize **implicit dependency chains**.
+2. **Rare EPE tokens** mitigate the Sequence Tax, helping small models **navigate large contexts**.
+3. The proposed solution achieves an **improvement of 119%** (Recall@1) over iterative sBERT using **25% of the parameters**.
 
