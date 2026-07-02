@@ -1,7 +1,7 @@
 # Hi! Welcome to my README.
 
 Personal information:
-1. [Connect on LinkedIn](www.linkedin.com/in/nikolay-staroverov-143887413)
+1. [Connect on LinkedIn](https://linkedin.com/in/nikolay-staroverov-143887413)
 2. Mail me at [nikolay_staroverov@proton.me](mailto:nikolay_staroverov@proton.me)
 
 
